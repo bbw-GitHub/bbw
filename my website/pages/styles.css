@@ -103,6 +103,12 @@ section.feature-box.sales div {
     background: rgb(105, 105, 253);
     color: yellowgreen;
 }
+.jzpaj img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
 /*#frank {
     font-size: 120%;
 }*/
