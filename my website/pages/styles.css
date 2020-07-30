@@ -59,14 +59,16 @@ a:hover {
 }
 /*RESPONSIVE RULES */
 @media screen and (max-width: 525px) {
-    header {
-        height: 200px;
-    }
     header .mobile {
         display: inline-block;
     }
     header .desktop {
         display: none;
+    }
+}
+@media screen and (max-width: 300px) {
+    header {
+        height: 300px;
     }
     header nav li {
         text-shadow: white 1px 1px 1px;
