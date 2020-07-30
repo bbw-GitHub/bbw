@@ -60,7 +60,7 @@ a:hover {
 /*RESPONSIVE RULES */
 @media screen and (max-width: 525px) {
     header {
-        height: 300px;
+        height: 200px;
     }
     header .mobile {
         display: inline-block;
