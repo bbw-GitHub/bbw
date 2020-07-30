@@ -68,6 +68,10 @@ a:hover {
     header .desktop {
         display: none;
     }
+    header nav li {
+        text-shadow: white 1px 1px 1px;
+        font-size: 10px;
+    }
 }
 /* feature */
 section {
