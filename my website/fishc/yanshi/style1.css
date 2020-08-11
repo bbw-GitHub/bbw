@@ -110,3 +110,9 @@ a:hover {
         margin: 0;
     }
 }
+
+@media screen and (orientation: portrait) {
+    li {
+        width: 100px;
+    }
+} 
