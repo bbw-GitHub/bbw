@@ -112,8 +112,7 @@ a:hover {
 }
 
 @media screen and (orientation: portrait) {
-    body *{ display:none;}
-    body{ background-color:lightblue;}
-    body:after{ content:”为了更好的体验，请使用横屏游览！！！”}
+    .menuitem {
+        width: 100px;
     }
 } 
