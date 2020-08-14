@@ -11,7 +11,8 @@ header {
     padding: 20px;
     height: 400px;
     background-color: black;
-    background-image: url("../images/4.jpg");
+    background: url(../images/4.jpg) no-repeat 0% 0%;
+    /*background-image: url("../images/4.jpg");*/
     background-size: 100%;
     /*background-position: center;*/
     text-align: center;
