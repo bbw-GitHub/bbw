@@ -69,6 +69,9 @@ a:hover {
     header .desktop {
         display: none;
     }
+    nav li {
+        margin-right: 10px;
+    }
     header .logo {
         text-align: center;
     }
