@@ -69,9 +69,6 @@ a:hover {
     header .desktop {
         display: none;
     }
-    nav li {
-        margin-left: 10px;
-    }
 }
 /* feature */
 section {
