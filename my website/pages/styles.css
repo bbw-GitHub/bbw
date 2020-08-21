@@ -69,8 +69,8 @@ a:hover {
     header .desktop {
         display: none;
     }
-    nav li {
-        margin-left: 10px;
+    header .logo {
+        text-align: center;
     }
 }
 /* feature */
